@@ -18,10 +18,11 @@
 	1. get batch info from system if SKU already present.
 	2. sk user about Batch info, if not found in system.
 12. WMS CC/Audit/other  Reports - check if existing data needs to be updated with grade data.
-13. 
+13. QC batch info testing
+14. check
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjUyNjI0OSwtNzY5MzIzNDYwLC0yMD
+eyJoaXN0b3J5IjpbLTEzOTQ0MDgwOCwtNzY5MzIzNDYwLC0yMD
 g4NzQ2NjEyXX0=
 -->
