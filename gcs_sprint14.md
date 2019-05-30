@@ -24,12 +24,12 @@
 17. Block/Unblock deploy to production
 18. Bulk processing
 19. Grade change mechanism.
-**20. One PO multiple invoices.**
+20. **One PO multiple invoices.**
 21. Sale Return - ITEM ??
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTIzODY5MywyMDEyNzE5MDksMTkyNj
-c4MjQwNCwtMTkzOTY1NDI5NiwtNzY5MzIzNDYwLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbOTA2OTYzMjM3LDIwMTI3MTkwOSwxOTI2Nz
+gyNDA0LC0xOTM5NjU0Mjk2LC03NjkzMjM0NjAsLTIwODg3NDY2
+MTJdfQ==
 -->
