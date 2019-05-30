@@ -13,9 +13,11 @@
 7. Batch number and MRP based allocation testing.
 8. WMS - UI- take MRP and other related information in  invoice.
 9. create an API for imventory query.
-10. 
+10. mechanism for identifying unknowsn SKU.
+11. 
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTk5MzQwNCwtNzY5MzIzNDYwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDUyNDA4MDYwLC03NjkzMjM0NjAsLTIwOD
+g3NDY2MTJdfQ==
 -->
