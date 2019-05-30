@@ -8,9 +8,7 @@
 	1. Give a warning when a user tries to generate picklist if there are some picking tasks already in-progress/pending. 
 	2. Let him generate picklist, but do not allow him to assign the task to a user, a supervisor can assign the task to itself and decide what to be done.
 	3. show number of pending tasks in warning message.
-6. GRN
-	1. Notifications
-	2. API
+6. GRN Notifications and API.
 7. Batch number and MRP based allocation testing.
 8. WMS - UI- take MRP and other related information in the invoice.
 9. create an API for an inventory query.
@@ -31,6 +29,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk2ODc2NTIsLTE5Mzk2NTQyOTYsLT
-c2OTMyMzQ2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTkyNjc4MjQwNCwtMTkzOTY1NDI5NiwtNz
+Y5MzIzNDYwLC0yMDg4NzQ2NjEyXX0=
 -->
