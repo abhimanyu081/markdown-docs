@@ -5,9 +5,9 @@
 3. In-Rack QC. DEV,TESTING
 4. In-Rack packing , TEST
 5. Warning - Picklist
-6. 
+	1. Give warning when user tries to generate picklist if there 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTk2MTQzMCwtNzY5MzIzNDYwLC0yMD
+eyJoaXN0b3J5IjpbLTUyMDg0NzQ0MCwtNzY5MzIzNDYwLC0yMD
 g4NzQ2NjEyXX0=
 -->
