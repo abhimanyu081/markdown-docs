@@ -7,6 +7,7 @@
 5. Warning - Picklist
 	1. Give a warning when a user tries to generate picklist if there are some picking tasks already in-progress/pending. 
 	2. Let him generate picklist, but do not allow him to assign the task to a user, a supervisor can assign the task to itself and decide what to be done.
+	3. show number of pending tasks in warning message.
 6. GRN
 	1. Notifications
 	2. API
@@ -24,10 +25,16 @@
 16. Purchase Accounting
 17. Block/Unblock deploy to production
 18. Bulk processing
-19. Grade change mechanism
+19. Grade change mechanism.
+	1. Front End 
+	2. Backend
+	3. HHT
+20. One PO multiple invoices.
+21. Sale Return - ITEM ?? ask chirag about this task.
+22. 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTg0NTgyOSwtNzY5MzIzNDYwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5Mzk2NTQyOTYsLTc2OTMyMzQ2MCwtMj
+A4ODc0NjYxMl19
 -->
