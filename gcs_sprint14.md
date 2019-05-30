@@ -26,15 +26,11 @@
 17. Block/Unblock deploy to production
 18. Bulk processing
 19. Grade change mechanism.
-	1. Front End 
-	2. Backend
-	3. HHT
 20. One PO multiple invoices.
 21. Sale Return - ITEM ?? ask chirag about this task.
-22. 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk2NTQyOTYsLTc2OTMyMzQ2MCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2Njk2ODc2NTIsLTE5Mzk2NTQyOTYsLT
+c2OTMyMzQ2MCwtMjA4ODc0NjYxMl19
 -->
