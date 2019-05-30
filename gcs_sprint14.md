@@ -19,10 +19,15 @@
 	2. sk user about Batch info, if not found in system.
 12. WMS CC/Audit/other  Reports - check if existing data needs to be updated with grade data.
 13. QC batch info testing
-14. check
+14. check if CC/Audit data also needs to be updated with grade data.
+15. find any other impacts of inventory grading that might have been left out.
+16. Purchase Accounting
+17. Block/Unblock deploy to production
+18. Bulk processing
+19. Grade change mechanism
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ0MDgwOCwtNzY5MzIzNDYwLC0yMD
+eyJoaXN0b3J5IjpbLTUyNTg0NTgyOSwtNzY5MzIzNDYwLC0yMD
 g4NzQ2NjEyXX0=
 -->
